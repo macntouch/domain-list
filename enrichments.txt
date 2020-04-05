@@ -83,7 +83,6 @@ cache.ltvcms.com
 cackle.me
 cc.cdn.civiccomputing.com
 cdn.adf.ly
-cdn.ampproject.org
 cdn.bitrix24.com
 cdn.callbackhunter.com
 cdn.consentmanager.mgr.consensu.org
@@ -471,7 +470,6 @@ totalvideogames.uk.intellitxt.com
 touslesdrivers.fr.intellitxt.com
 traffic5.helponclick.com
 traileraddict.us.intellitxt.com
-transactions.sendowl.com
 tslfeeder.dotfusion.com
 tutorialized.us.intellitxt.com
 tweaktown.us.intellitxt.com

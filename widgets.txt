@@ -18,7 +18,6 @@ api.iflychat.com
 api.pinterest.com
 api.solidopinion.com
 api.stacksocial.com
-api.yotpo.com
 apiae.hopscore.com
 app-sj01.marketo.com
 app-sj10.marketo.com
@@ -56,7 +55,6 @@ cdn-stamped-io.azureedge.net
 cdn-widget.stuff.com
 cdn.addnow.com
 cdn.earnify.com
-cdn.embedly.com
 cdn.headwayapp.co
 cdn.iubenda.com
 cdn.jivosite.com
@@ -70,7 +68,6 @@ cdn.playwire.com
 cdn.prizma.tv
 cdn.pubexchange.com
 cdn.shareaholic.net
-cdn.syndication.twimg.com
 cdn.topsy.com
 cdn.trending.ntrsctn.com
 cdn.ywxi.net
@@ -141,7 +138,6 @@ go.activengage.com
 go.pardot.com
 goku.brightcove.com
 gradnik.dobrodelen.si
-graph.facebook.com
 headway-widget.net
 hl.hellobar.com
 hnbutton.appspot.com
@@ -202,7 +198,6 @@ pglb.buzzfed.com
 ping.chartbeat.net
 pix.stcounter.com
 platform.linkedin.com
-platform.twitter.com
 plug.plugerr.com
 plusone.google.com
 polldaddy.com

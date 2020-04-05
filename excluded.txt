@@ -1,0 +1,9 @@
+api.yotpo.com
+cdn.ampproject.org
+cdn.embedly.com
+cdn.syndication.twimg.com
+graph.facebook.com
+gumroad.com
+platform.twitter.com
+s.youtube.com
+transactions.sendowl.com
