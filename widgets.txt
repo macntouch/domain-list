@@ -282,7 +282,6 @@ user-pulse.appspot.com
 users.instush.com
 v1.spot.im
 v2.zopim.com
-v2assets.zopim.io
 va.tawk.to
 vms.boldchat.com
 vmss.boldchat.com
@@ -382,6 +381,5 @@ www.stevec.si
 www.surveymonkey.com
 www.tribdss.com
 www4.clustrmaps.com
-xdaportal.disqus.com
 z430.takru.com
 zdwidget3-bs.sphereup.com

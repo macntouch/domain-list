@@ -2,8 +2,13 @@ api.yotpo.com
 cdn.ampproject.org
 cdn.embedly.com
 cdn.syndication.twimg.com
+d1f8f9xcsvx3ha.cloudfront.net
+d3e1078hs60k37.cloudfront.net
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 graph.facebook.com
 gumroad.com
 platform.twitter.com
 s.youtube.com
 transactions.sendowl.com
+v2assets.zopim.io
+xdaportal.disqus.com
