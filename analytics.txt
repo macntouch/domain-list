@@ -710,7 +710,6 @@ c.msparktrk.com
 c.ns1p.net
 c.p-advg.com
 c.parkingcrew.net
-c.paypal.com
 c.prod.theintercept.com
 c.securepaths.com
 c.spiegel.de
@@ -4840,7 +4839,6 @@ xitiad6.xiti.com
 xitiv6.xiti.com
 xl.topstat.com
 xob.miranus.com
-xp.apple.com
 xray.mail.ru
 xre.static-api.pw
 xsltcache.alexa.com

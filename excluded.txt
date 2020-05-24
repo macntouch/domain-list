@@ -1,4 +1,6 @@
+api.pinterest.com
 api.yotpo.com
+c.paypal.com
 cdn.ampproject.org
 cdn.embedly.com
 cdn.syndication.twimg.com
@@ -12,3 +14,4 @@ s.youtube.com
 transactions.sendowl.com
 v2assets.zopim.io
 xdaportal.disqus.com
+xp.apple.com

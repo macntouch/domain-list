@@ -15,7 +15,6 @@ api.flattr.com
 api.flyertown.ca
 api.gravity.com
 api.iflychat.com
-api.pinterest.com
 api.solidopinion.com
 api.stacksocial.com
 apiae.hopscore.com
